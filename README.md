@@ -1,6 +1,6 @@
 # udpwarp-cli
 
-基于upd的Cloudflare WARP可用Endpoint扫描，支持WARP的WireGuard和Masque两种不同的隧道协议方式的扫描。
+基于UDP的Cloudflare WARP可用Endpoint扫描，支持WARP的WireGuard和Masque两种不同的隧道协议方式的扫描。
 
 ### CLI
 
